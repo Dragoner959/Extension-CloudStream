@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/Dragoner959/Extension-CloudStream/refs/heads/master/builds/github-extension-1.0.0.jar",
+    "status": 1,
+    "version": 1,
+    "name": "GitHub Extension",
+    "internalName": "GitHubExtension",
+    "authors": [
+      "YourName"
+    ],
+    "description": "Cloudstream plugin package generated from the local project",
+    "fileSize": 96757,
+    "repositoryUrl": "https://github.com/Dragoner959/Extension-CloudStream",
+    "language": "en",
+    "tvTypes": [
+      "Movie"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-BDAC7D861372AF9EEF80030F2ED9A17C828D8B93EDE72F60B0C48067F325DA93"
+  }
+]

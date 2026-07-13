@@ -1,0 +1,9 @@
+{
+  "name": "GitHub Extension Cloudstream",
+  "description": "Cloudstream repository for the GitHub Extension plugin",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Dragoner959/Extension-CloudStream/refs/heads/master/builds/plugins.json"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/Dragoner959/Extension-CloudStream/refs/heads/master/README.md"
+}
