@@ -1,4 +1,5 @@
 @echo off
 setlocal
 set DIR=%~dp0
-call "%DIR%gradle-8.7\bin\gradle.bat" %*
+set JAVA_EXE=java
+"%JAVA_EXE%" -jar "%DIR%gradle\wrapper\gradle-wrapper.jar" %*
