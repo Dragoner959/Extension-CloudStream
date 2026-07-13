@@ -9,13 +9,13 @@
       "YourName"
     ],
     "description": "Cloudstream plugin package generated from the local project",
-    "fileSize": 96757,
+    "fileSize": 21636227,
     "repositoryUrl": "https://github.com/Dragoner959/Extension-CloudStream",
     "language": "en",
     "tvTypes": [
       "Movie"
     ],
     "apiVersion": 1,
-    "fileHash": "sha256-BDAC7D861372AF9EEF80030F2ED9A17C828D8B93EDE72F60B0C48067F325DA93"
+    "fileHash": "sha256-79B10A91307DBB1768D2FF99AB0EA44C21F30A2E20CB9076EFECEAFF1CD2C574"
   }
 ]
