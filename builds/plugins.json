@@ -9,14 +9,14 @@
       "Dragoner959"
     ],
     "description": "AnimeV1 provider packaged as a separate Cloudstream plugin",
-    "fileSize": 19787958,
+    "fileSize": 96757,
     "repositoryUrl": "https://github.com/Dragoner959/Extension-CloudStream",
     "language": "es",
     "tvTypes": [
       "Anime"
     ],
     "apiVersion": 1,
-    "fileHash": "sha256-F871074E2E028A62D2B59E911A4F7ED69FEFAB969B399CFFCD8976C656244D07"
+    "fileHash": "sha256-BDAC7D861372AF9EEF80030F2ED9A17C828D8B93EDE72F60B0C48067F325DA93"
   },
   {
     "url": "https://raw.githubusercontent.com/Dragoner959/Extension-CloudStream/main/builds/nhentai-1.0.0.cs3",
@@ -28,14 +28,14 @@
       "Dragoner959"
     ],
     "description": "Nhentai provider packaged as a separate Cloudstream plugin",
-    "fileSize": 19787958,
+    "fileSize": 96757,
     "repositoryUrl": "https://github.com/Dragoner959/Extension-CloudStream",
     "language": "es",
     "tvTypes": [
       "Movie"
     ],
     "apiVersion": 1,
-    "fileHash": "sha256-F871074E2E028A62D2B59E911A4F7ED69FEFAB969B399CFFCD8976C656244D07"
+    "fileHash": "sha256-BDAC7D861372AF9EEF80030F2ED9A17C828D8B93EDE72F60B0C48067F325DA93"
   },
   {
     "url": "https://raw.githubusercontent.com/Dragoner959/Extension-CloudStream/main/builds/rule34video-1.0.0.cs3",
@@ -47,13 +47,13 @@
       "Dragoner959"
     ],
     "description": "Rule34Video provider packaged as a separate Cloudstream plugin",
-    "fileSize": 19787958,
+    "fileSize": 96757,
     "repositoryUrl": "https://github.com/Dragoner959/Extension-CloudStream",
     "language": "es",
     "tvTypes": [
       "Movie"
     ],
     "apiVersion": 1,
-    "fileHash": "sha256-F871074E2E028A62D2B59E911A4F7ED69FEFAB969B399CFFCD8976C656244D07"
+    "fileHash": "sha256-BDAC7D861372AF9EEF80030F2ED9A17C828D8B93EDE72F60B0C48067F325DA93"
   }
 ]
