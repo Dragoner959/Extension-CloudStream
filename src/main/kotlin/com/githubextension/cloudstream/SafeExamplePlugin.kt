@@ -100,6 +100,8 @@ class EpornerAPI : MainAPI() {
 @CloudstreamPlugin
 class SafeExamplePlugin : BasePlugin() {
     override fun load() {
-        // Minimal plugin entrypoint to ensure Cloudstream can install the package.
+        registerMainAPI(AnimeV1())
+        registerMainAPI(NhentaiAPI())
+        registerMainAPI(Rule34Video())
     }
 }
