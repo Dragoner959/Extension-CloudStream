@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 set -e
-DIR="$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)"
-exec "$DIR/gradle-8.7/bin/gradle" "$@"
+DIR="$(cd "$(dirname "$0")" && pwd)"
+exec java -jar "$DIR/gradle/wrapper/gradle-wrapper.jar" "$@"
