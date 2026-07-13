@@ -6,12 +6,12 @@
     "name": "GitHub Extension",
     "internalName": "GitHubExtension",
     "authors": [
-      "YourName"
+      "Dragoner959"
     ],
     "description": "Cloudstream plugin package generated from the local project",
     "fileSize": 19787499,
     "repositoryUrl": "https://github.com/Dragoner959/Extension-CloudStream",
-    "language": "en",
+    "language": "es",
     "tvTypes": [
       "Movie"
     ],
